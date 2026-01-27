@@ -3,7 +3,6 @@
 I'm **Maxim**, a dedicated **Fullstack** and **Game Developer** who loves turning ideas into digital experiences
 
 ### 🚀 About Me
-- 🔭 Currently working on: **My own UI Library**
 - 🌱 Learning and improving: **Advanced Web Architecture**
 
 ### 🛠️ Tech Stack
